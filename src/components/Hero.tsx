@@ -12,7 +12,7 @@ export const Hero = () => {
               Brewing your next website
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              We don't just build websites, we brew digital stories. Let's create something extraordinary for your startup!
+              We don't just build websites, we brew digital stories. Let's create something extraordinary for your startup 🚀
             </p>
           </div>
         </div>
